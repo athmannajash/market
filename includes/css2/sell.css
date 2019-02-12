@@ -1,0 +1,33 @@
+form{
+  width: 50%;
+  margin: 20px auto;
+}
+form div{
+  margin-top: 5px;
+}
+#upload label {
+   font: 15px/24px 'opensans-bold', sans-serif;
+   margin: 12px 0;
+   color: #000000;
+	display: inline-block;
+	float: left;
+   width: 26%;
+}
+#submit,
+#upload input,
+#upload  textarea,
+#upload  select {
+   padding: 18px 20px;
+	color: #000000;
+	background: #FFFFCC;
+	margin-bottom: 42px;
+	border: 2px solid brown;
+  border-radius: 5px;
+  outline: none;
+   font-size: 15px;
+   line-height: 24px;
+   width: 65%;
+}
+#alert{
+  text-align: center;
+}
